@@ -29,7 +29,3 @@ This project was developed completely in Java without using external libraries.
   - Encapsulation  
   - Polymorphism  
   - Abstraction  
-
----
-
-## 📂 Project Structure
